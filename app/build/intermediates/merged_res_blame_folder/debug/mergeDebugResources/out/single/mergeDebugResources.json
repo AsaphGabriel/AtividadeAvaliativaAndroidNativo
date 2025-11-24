@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\asaph\\.gradle\\daemon\\8.13\\com.projetoAsaph.gerenciadorcontatos.app-debug-28:\\drawable_circle_shape.xml.flat",
+        "source": "C:\\Users\\asaph\\.gradle\\daemon\\8.13\\com.projetoAsaph.gerenciadorcontatos.app-main-30:\\drawable\\circle_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\asaph\\.gradle\\daemon\\8.13\\com.projetoAsaph.gerenciadorcontatos.app-debug-28:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\asaph\\.gradle\\daemon\\8.13\\com.projetoAsaph.gerenciadorcontatos.app-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\asaph\\.gradle\\daemon\\8.13\\com.projetoAsaph.gerenciadorcontatos.app-debug-28:\\layout_item_contact.xml.flat",
+        "source": "C:\\Users\\asaph\\.gradle\\daemon\\8.13\\com.projetoAsaph.gerenciadorcontatos.app-main-30:\\layout\\item_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\asaph\\.gradle\\daemon\\8.13\\com.projetoAsaph.gerenciadorcontatos.app-debug-28:\\menu_menu_options.xml.flat",
+        "source": "C:\\Users\\asaph\\.gradle\\daemon\\8.13\\com.projetoAsaph.gerenciadorcontatos.app-main-30:\\menu\\menu_options.xml"
+    },
+    {
+        "merged": "com.projetoAsaph.gerenciadorcontatos.app-debug-28:/layout_item_contact.xml.flat",
+        "source": "com.projetoAsaph.gerenciadorcontatos.app-main-30:/layout/item_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\asaph\\.gradle\\daemon\\8.13\\com.projetoAsaph.gerenciadorcontatos.app-debug-28:\\menu_menu_popup.xml.flat",
+        "source": "C:\\Users\\asaph\\.gradle\\daemon\\8.13\\com.projetoAsaph.gerenciadorcontatos.app-main-30:\\menu\\menu_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\asaph\\.gradle\\daemon\\8.13\\com.projetoAsaph.gerenciadorcontatos.app-debug-28:\\menu_menu_context.xml.flat",
+        "source": "C:\\Users\\asaph\\.gradle\\daemon\\8.13\\com.projetoAsaph.gerenciadorcontatos.app-main-30:\\menu\\menu_context.xml"
+    },
+    {
+        "merged": "com.projetoAsaph.gerenciadorcontatos.app-debug-28:/drawable_ic_person.xml.flat",
+        "source": "com.projetoAsaph.gerenciadorcontatos.app-main-30:/drawable/ic_person.xml"
+    }
+]

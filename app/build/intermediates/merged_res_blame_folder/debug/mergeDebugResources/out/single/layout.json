@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\asaph\\.gradle\\daemon\\8.13\\com.projetoAsaph.gerenciadorcontatos.app-mergeDebugResources-27:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\asaph\\.gradle\\daemon\\8.13\\com.projetoAsaph.gerenciadorcontatos.app-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.projetoAsaph.gerenciadorcontatos.app-mergeDebugResources-27:/layout/item_contact.xml",
+        "source": "com.projetoAsaph.gerenciadorcontatos.app-main-30:/layout/item_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\asaph\\.gradle\\daemon\\8.13\\com.projetoAsaph.gerenciadorcontatos.app-mergeDebugResources-27:\\layout\\item_contact.xml",
+        "source": "C:\\Users\\asaph\\.gradle\\daemon\\8.13\\com.projetoAsaph.gerenciadorcontatos.app-main-30:\\layout\\item_contact.xml"
+    }
+]

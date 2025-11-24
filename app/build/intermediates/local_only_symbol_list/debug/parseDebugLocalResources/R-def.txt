@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable circle_shape
+drawable ic_person
+id btnOptions
+id context_delete
+id context_edit
+id context_share
+id menu_about
+id menu_add
+id popup_call
+id popup_email
+id popup_sms
+id recyclerContacts
+id txtName
+layout activity_main
+layout item_contact
+menu menu_context
+menu menu_options
+menu menu_popup
+string app_name
+string contact_name
+style Theme.GerenciadorContatos
