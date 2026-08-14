@@ -2,7 +2,7 @@
 
 > O aplicativo definitivo para quem acha que gerenciar contatos deveria ser uma experiência, não uma obrigação.
 
-![Badge Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Badge Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Badge Status](https://img.shields.io/badge/Status-Nota%2010%20Garantida-brightgreen?style=for-the-badge)
+![Badge Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Badge Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) !
 
 Este projeto foi desenvolvido como atividade prática para demonstrar domínio absoluto sobre os diferentes tipos de **Menus no Android**, indo além do básico e entregando uma interface limpa com Material Design.
 
